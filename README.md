@@ -23,7 +23,7 @@ for DNN (96%):
 python main.py --mode train --model_type dnn
 ```
 
-for CNN (98%):
+for CNN (99%):
 ```
 python main.py --mode train --model_type cnn
 ```

@@ -12,7 +12,7 @@ Download [all.zip](https://www.kaggle.com/c/3004/download-all) and put files in 
 ### Hyperparameters in flags.py
 `model_type` : cnn / dnn  
 `batch_size` : batch size / one training step  
-`dp` : drop out rate
+`dp` : drop out rate  
 `units` : numbers of neuron of layers for DNN  
 `filter` : numbers of filters in each CNN layer  
 `kernel` : kernel size  

@@ -11,11 +11,11 @@ Download [all.zip](https://www.kaggle.com/c/3004/download-all) and put files in 
 
 ### Hyperparameters in flags.py
 `model_type` : cnn / dnn  
-`batch_size` : batch size / one training step  
-`dp` : drop out rate  
 `units` : numbers of neuron of layers for DNN  
 `filter` : numbers of filters in each CNN layer  
 `kernel` : kernel size  
+`dp` : drop out rate  
+`batch_size` : batch size / one training step  
 
 ### Train
 for DNN (96%):
@@ -43,7 +43,7 @@ the output file would be data/prediction.csv
 
 ### Files
 `flags.py` : all setting  
-`main.py` : main function  
 `utils.py` : get date batch  
+`main.py` : main function  
 `model.py` : model structure  
 

@@ -1,4 +1,4 @@
-# Titanic Disaster
+# Digit Recognizer
 Kaggle Competition : https://www.kaggle.com/c/digit-recognizer
 
 ## Preparation
